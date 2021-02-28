@@ -12,11 +12,11 @@ which allows me to configure how the heading tags affect the side bar and to loa
 ## Markdown Data
 Once you're done with your configuration, all you have to worry about is your file structure and Markdown pages. Your initial homepage will always be set as `README.md` which can be changed with configuration, but is the standard for Docsify, as it will show your homepage on your GitHub. If you want to add additional pages, you need to create a `_sidebar.md` file to tell the sidebar how to navigate to each file. 
 
-![](docs/sidebar.png)
+![](sidebar.PNG)
 
 Before you can tell the sidebar how to link pages, it is best to set up your file structure, so you know where each page is going to be locating. Take this example from the Docsify Documentation as an example for a file structure you can use if you are nesting your files in folders:
 
-![](Capture.png)
+![](Capture.PNG)
 
 Also here's an example of what my very simple file structure for this website looks like:
 
